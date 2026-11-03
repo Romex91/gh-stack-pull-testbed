@@ -8,7 +8,7 @@ line 7
 line 8
 line 9
 para above bottom
-edited by bottom
+reworded by bottom
 line 11
 para below bottom
 line 12
