@@ -8,7 +8,7 @@ line 7
 line 8
 line 9
 para above bottom-branch
-edited by bottom-branch
+reworded by bottom-branch
 line 11
 para below bottom-branch
 line 12
