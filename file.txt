@@ -28,7 +28,7 @@ line 27
 line 28
 line 29
 edited by top-branch
-line 31
+Bob on top-branch
 line 32
 line 33
 line 34
