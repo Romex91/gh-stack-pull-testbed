@@ -8,7 +8,7 @@ line 7
 line 8
 line 9
 edited by bottom-branch
-line 11
+Bob on bottom-branch
 line 12
 line 13
 line 14
